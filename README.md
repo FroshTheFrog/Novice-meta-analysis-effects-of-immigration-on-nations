@@ -24,6 +24,8 @@ There are many other factors that affect the data that I was testing. For this r
 Where was the data collected: https://drive.google.com/open?id=1rJP9qdX5ZOuM2sfjRgx4GZWGQvoB-3rdvRM96-WDsaI
 
 ### Results:
+![figure_1-1](https://user-images.githubusercontent.com/28665112/39078341-150d7e2c-44d7-11e8-9925-c8bcf4eab57b.png)
+![figure_1](https://user-images.githubusercontent.com/28665112/39078353-31a48ac6-44d7-11e8-95b7-3934a84a6fd3.png)
 
 ### Conclusion:
 The first figure found that immigration rates are higher in countries with low unemployment and high life satisfaction. This makes sense due to the fact that these are viewed as positive traits and most would want to come to a place where people are happy and successful. It also makes sense that happy and successful people would be more likely to take the risk of letting people into their country. This is because they are in a better place to take a risk.
